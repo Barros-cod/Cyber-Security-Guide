@@ -14,3 +14,4 @@
 -  [Computer network basics](https://www.youtube.com/watch?v=keeqnciDVOo)
 - [Network Devices](https://www.youtube.com/watch?v=bj-Yfakjllc&list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi)
 - [What is the OSI Model?](https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/)
+- [Basic Network Concepts!](https://www.netacad.com/pt/courses/networking-basics?courseLang=pt-BR)
