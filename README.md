@@ -1,15 +1,24 @@
 ## Introduction to Cybersecurity 📋
+
 - https://www.netacad.com/pt/courses/introduction-to-cybersecurity
 
 ## Cyber Sercurity -  Roadmap 👨‍💻
+
 - https://roadmap.sh/cyber-security
+
+## Programming 🎲
+
+- https://en.wikipedia.org/wiki/Logic_programming
+- [Introduction to Programming](https://www.youtube.com/watch?v=zOjov-2OZ0E&t=97s)
+
 
 ## Free Python Course 🚀
 
 - https://beecrowd.com
 - https://www.codecademy.com/enrolled/courses/learn-python
 
-## Basics of Computer Networking🌎 : 
+## Basics of Computer Networking 🌎 
+
 #### " Remember that these are basic tips, but the best way to achieve them is to persist "
 -  [Computer network basics](https://www.youtube.com/watch?v=keeqnciDVOo)
 - [Network Devices](https://www.youtube.com/watch?v=bj-Yfakjllc&list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi)
